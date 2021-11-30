@@ -8,7 +8,7 @@ const Contact = () => {
             <div className="max-w-5xl mx-auto px-6 sm:px-6 lg:px-8 mb-12">
                 <div className="bg-white w-full shadow rounded p-4 sm:p-6 -mt-72">
                     <p className="text-3xl font-bold leading-7 text-center">GET IN TOUCH</p>
-                    <form action="" method="post">
+                    <form action="">
                         <div className="md:flex items-center mt-12">
                             <div className="w-full md:w-1/2 flex flex-col">
                                 <label className="font-semibold leading-none">Name</label>
